@@ -1,6 +1,6 @@
 # Jean Zambrano
 
-**Junior Software Developer · Medellín, Colombia**
+**Junior Software Developer**
 
 I’m a Junior Software Developer and Software Engineering student from Colombia, eager to work in a real-world development environment, contribute to meaningful projects, and keep learning every day.
 
